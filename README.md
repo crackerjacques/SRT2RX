@@ -1,6 +1,6 @@
 # SRT2RX
 convert .srt file to iZotope RX Marker/Region List file
-It would be useful to remove the rereading of the lines with AI transcription (e.g. Whisper).
+It would be useful to remove the rereading of the lines with AI transcription (e.g. OpenAI Whisper).
 
 # How to Use
 
