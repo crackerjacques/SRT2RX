@@ -35,3 +35,8 @@ python srt2rx-tk
 ```
 
 Simply select file and save.
+
+# Windows Executable version
+
+Duble-Click to GO!!!!
+
