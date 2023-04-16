@@ -25,7 +25,7 @@ python srt2rx.py [your_file.srt] [your_result_file.txt]
 
 done
 
-#TK Version
+# TK Version
 
 This is simple GUI implementation.
 
