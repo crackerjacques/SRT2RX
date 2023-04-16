@@ -31,7 +31,7 @@ This is simple GUI implementation.
 
 type
 ```
-python srt2rx-tk
+python srt2rx-tk.py
 ```
 
 Simply select file and save.
