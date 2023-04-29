@@ -2,6 +2,10 @@
 convert .srt file to iZotope RX Marker/Region List file
 It would be useful to remove the rereading of the lines with AI transcription (e.g. OpenAI Whisper).
 
+
+OPENAI Whisper
+https://github.com/openai/whisper
+
 # How to Use
 ![IMG](https://github.com/crackerjacques/SRT2RX/blob/main/001.png?raw=true)
 
