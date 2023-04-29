@@ -30,6 +30,11 @@ python srt2rx.py [your_file.srt] [your_result_file.txt]
 
 done
 
+# _comment Version
+
+Put dialogue to comment.
+Markers and region names follow defaults
+
 # TK Version
 
 This is simple GUI implementation.
